@@ -10,12 +10,10 @@ TCET Linux is a GNU/Linux distribution based on Arch Linux. It is currently unde
 TCET-Linux is an open-source operating system (OS) based on the Unix family of operating systems. It is known for its stability, security, and flexibility, making it a popular choice for various applications ranging from desktop computers and servers to embedded systems.TCET Linux began in 2022 and is continuing with a strong legacy.
 
 # ABOUT US :
-The TCET Linux operating system is made up of a kernel, which is the core part responsible for managing hardware resources and providing basic services, and various software packages that make up the user-space applications and utilities.  
+The TCET Linux is an Arch based operating system, which is the core part responsible for managing hardware resources and providing basic services, as well as various software packages that make up the user-space applications and utilities. It offers an installer for quick, simple installation.It provides Rolling release which makes linux easier for new users.
 What sets it apart from other operating systems is its open-source nature. This means that the source code of the TCET Linux kernel and most software applications that run on it are freely available for anyone to view, modify, and distribute. This open approach has led to a large community of developers and enthusiasts contributing to the development and improvement of it.
  
 # WELCOME APP:
-What is welcome app?
-welcome app provides links to: arch wiki, AUR, link for contribution, link for discord server, shortcuts for: updating mirrors, and the PC . It may provide a brief introduction to the startup's mission, products, or services to give users a quick overview of what the startup is all about.
 
 ![tl](https://cdn.discordapp.com/attachments/1077235507702013983/1140694346711179378/welcomeapp.png)
 
